@@ -1,0 +1,7 @@
+{
+  "name": "payapp5",
+  "description": "A sample payapp5",
+  "repository": "https://github.com/adeepak7/payapp5",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
